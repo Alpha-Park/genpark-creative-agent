@@ -1,0 +1,10 @@
+{
+  "name": "genpark-creative-agent",
+  "version": "1.0.0",
+  "description": "GenPark Creative Agent - Freytag's Pyramid narrative dramaturgy curve modeler, multi-aspect ratio crop/safe-zone reframe solver, and 3D LUT color grading matrix transformer with zero dependencies.",
+  "tools": [
+    "model_freytag_pyramid_dramaturgy",
+    "calculate_aspect_ratio_reframe_matrix",
+    "calculate_color_grading_lut_transform"
+  ]
+}
