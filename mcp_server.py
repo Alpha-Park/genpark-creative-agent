@@ -49,8 +49,7 @@ def calculate_color_grading_lut_transform(
     return json.dumps(res, indent=2)
 
 def main():
-    print("Testing Creative Agent:")
-    print(model_freytag_pyramid_dramaturgy(30.0))
+    mcp.run(transport="stdio")
 
 if __name__ == "__main__":
     main()
